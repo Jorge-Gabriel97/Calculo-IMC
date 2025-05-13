@@ -51,6 +51,3 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue
 
 Este projeto é de uso livre para fins educacionais e pessoais.
 
----
-
-Feito com ❤️ por Jorge Gabriel.
