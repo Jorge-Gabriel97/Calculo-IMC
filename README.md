@@ -1,14 +1,14 @@
-##Calculadora de IMC
+## Calculadora de IMC
 Uma aplicação web simples para calcular o Índice de Massa Corporal (IMC) com base no peso e altura fornecidos pelo usuário.
 
-##🔍 Funcionalidades
+## 🔍 Funcionalidades
 Entrada de nome, peso (kg) e altura (cm).
 
 Cálculo automático do IMC ao clicar no botão "Calcular IMC".
 
 Exibição do resultado do IMC na mesma página.
 
-##🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 HTML5
 
 CSS3
@@ -16,7 +16,7 @@ CSS3
 JavaScript
 
 
-##🚀 Como Usar
+## 🚀 Como Usar
 Acesse https://imcagora.netlify.app.
 
 Preencha os campos de nome, peso e altura.
@@ -25,7 +25,7 @@ Clique no botão "Calcular IMC".
 
 Veja o resultado exibido abaixo do formulário.
 
-##📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 ````
 imcagora/
 ├── index.html
